@@ -38,8 +38,6 @@ html {
 }
 
 body {
-  height: 100%;
-  width: 320px;
   margin: 0;
   padding: 0;
   background: #f8f8f8;
@@ -48,6 +46,7 @@ body {
 /* Burger menu */
 
 .burger {
+  height: 100%;
   min-height: 100%;
   width: 320px;
   padding: 18px 24px 32px;
